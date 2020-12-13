@@ -1,4 +1,4 @@
-package com.jvision.admin;
+package com.jvision.admin201618049;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.jvision.admin.domain.posts;
+package com.jvision.admin201618049.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
